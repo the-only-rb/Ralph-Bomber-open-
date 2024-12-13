@@ -4,4 +4,6 @@ Go to lines 80-81 to add your email and app password. To get your app password, 
 
 You can run it on REPLIT by cloning the respiratory or by going here -> https://replit.com/@6gr4mp6zbx/Ralph-Bomber?s=app
 
+(The display looks bad cos its on mobile, put your phone landscape and it will look better)
+
 This is a email bomber, it can send an infinite number of emails to anyone! This can be used ethically or unethically, however, I AM NOT RESPONSIBLE FOR ANY MISUSE OR HARM CAUSED BY THIS!!!!!
